@@ -1,10 +1,5 @@
 <h1> Bruno Barbosa aqui, Bem vindo ao meu GitHub!!! </h1>
 
-<div align="left">
-  <a href="https://github.com/brunodesp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodesp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodesp&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <h2 align="left">👨‍💻Tecnologias Dominantes</h2>
 <div align="left" style="display: inline-block">
 <img align="center" alt="Bruno-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -12,6 +7,14 @@
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 </div> <br>
+
+<div align="left">
+  <a href="https://github.com/brunodesp">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunodesp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodesp&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
 
 ![Snake animation](https://github.com/brunodesp/brunodesp/blob/output/github-contribution-grid-snake.svg) 
 
