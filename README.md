@@ -13,7 +13,7 @@
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 </div> <br>
 
-<p align="center>"![Snake animation](https://github.com/brunodesp/brunodesp/blob/output/github-contribution-grid-snake.svg) </p>
+![Snake animation](https://github.com/brunodesp/brunodesp/blob/output/github-contribution-grid-snake.svg) 
 
 <div align="left">
 <h2>📧Minhas redes sociais</h2>
